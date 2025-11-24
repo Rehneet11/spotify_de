@@ -1,0 +1,9 @@
+{
+	"name": "spotify-adf-rehneet",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "33215f76-08fc-4bf8-a1eb-87f0a1352f4c",
+		"tenantId": "2015b9b1-02ec-4fb4-bc2c-1a0ba0913df9"
+	}
+}
